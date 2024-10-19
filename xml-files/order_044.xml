@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order>
+    <OrderID>1004</OrderID>
+    <Customer>
+        <CustomerID>4</CustomerID>
+        <Name>Emily Johnson</Name>
+    </Customer>
+    <OrderDate>2024-10-15T13:30:00</OrderDate>
+    <Products>
+        <Product>
+            <ProductID>104</ProductID>
+            <Name>USB Hub</Name>
+            <Quantity>3</Quantity>
+            <Price>15.00</Price>
+        </Product>
+    </Products>
+    <TotalAmount>45.00</TotalAmount>
+</Order>

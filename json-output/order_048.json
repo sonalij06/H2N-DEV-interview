@@ -1,0 +1,16 @@
+[
+    {
+        "OrderID": "1008",
+        "OrderDate": "2024-10-15T17:00:00",
+        "TotalAmount": "79.99",
+        "Customer": {},
+        "Products": [
+            {
+                "ProductID": "108",
+                "Name": "External HDD",
+                "Quantity": "1",
+                "Price": "79.99"
+            }
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Orders>
+<Order>
+    <OrderID>1</OrderID>
+<Customer>
+    <CustomerID>1</CustomerID>
+    <Name>Customer 1</Name>
+</Customer
+>
+    <OrderDate>2024-10-15T10:01:00</OrderDate>
+<Products>
+    <Product>
+        <ProductID>101</ProductID>
+        <Name>Product 1</Name>
+        <Quantity>3</Quantity>
+        <Price>49.63</Price>
+    </Product>
+</Products>
+    <TotalAmount>77.53</TotalAmount>
+</Order>
+<Order>
+    <OrderID>2</OrderID>
+<Customer>
+    <CustomerID>2</CustomerID>
+    <Name>Customer 2</Name>
+</Customer
+>
+    <OrderDate>2024-10-15T10:02:00</OrderDate>
+<Products>
+    <Product>
+        <ProductID>102</ProductID>
+        <Name>Product 2</Name>
+        <Quantity>2</Quantity>
+        <Price>76.79</Price>
+    </Product>
+</Products>
+    <TotalAmount>259.80</TotalAmount>
+</Order>
+<Order>
+    <OrderID>3</OrderID>
+<Customer>
+    <CustomerID>3</CustomerID>
+    <Name>Customer 3</Name>
+</Customer
+>
+    <OrderDate>2024-10-15T10:03:00</OrderDate>
+<Products>
+    <Product>
+        <ProductID>103</ProductID>
+        <Name>Product 3</Name>
+        <Quantity>5</Quantity>
+        <Price>64.95</Price>
+    </Product>
+</Products>
+    <TotalAmount>296.99</TotalAmount>
+</Order>
+<Order>
+    <OrderID>4</OrderID>
+<Customer>
+    <CustomerID>4</CustomerID>
+    <Name>Customer 4</Name>
+</Customer
+>
+    <OrderDate>2024-10-15T10:04:00</OrderDate>
+<Products>
+    <Product>
+        <ProductID>104</ProductID>
+        <Name>Product 4</Name>
+        <Quantity>3</Quantity>
+        <Price>87.59</Price>
+    </Product>
+</Products>
+    <TotalAmount>112.12</TotalAmount>
+</Order>
+<Order>
+    <OrderID>5</OrderID>
+<Customer>
+    <CustomerID>5</CustomerID>
+    <Name>Customer 5</Name>
+</Customer
+>
+    <OrderDate>2024-10-15T10:05:00</OrderDate>
+<Products>
+    <Product>
+        <ProductID>105</ProductID>
+        <Name>Product 5</Name>
+        <Quantity>1</Quantity>
+        <Price>18.15</Price>
+    </Product>
+</Products>
+    <TotalAmount>314.62</TotalAmount>
+</Order>
+</Orders>

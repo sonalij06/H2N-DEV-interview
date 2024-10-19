@@ -1,0 +1,19 @@
+[
+    {
+        "OrderID": "71",
+        "OrderDate": "2024-10-15T10:11:00",
+        "TotalAmount": "367.92",
+        "Customer": {
+            "CustomerID": "71",
+            "Name": "Customer 71"
+        },
+        "Products": [
+            {
+                "ProductID": "171",
+                "Name": "Product 71",
+                "Quantity": "1",
+                "Price": "58.12"
+            }
+        ]
+    }
+]

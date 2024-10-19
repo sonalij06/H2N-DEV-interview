@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order>
+    <OrderID>1002</OrderID>
+    <Customer>
+        <CustomerID>2</CustomerID>
+        <Name>Jane Doe</Name>
+    </Customer>
+    <OrderDate>2024-10-15T11:00:00</OrderDate>
+    <Products>
+        <Product>
+            <ProductID>102</ProductID>
+            <Name>Keyboard</Name>
+            <Quantity>1</Quantity>
+            <Price>49.99</Price>
+        </Product>
+    </Products>
+    <TotalAmount>49.99</TotalAmount>
+</Order>

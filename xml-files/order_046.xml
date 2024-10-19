@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order>
+    <OrderID>1006</OrderID>
+    <Customer>
+        <CustomerID>6</CustomerID>
+        <Name>Alice Cooper</Name>
+    </Customer>
+    <OrderDate>2024-10-15T15:00:00</OrderDate>
+    <Products>
+        <Product>
+            <ProductID>106</ProductID>
+            <Name>Mouse Pad</Name>
+            <Quantity>2</Quantity>
+            <Price>5.99</Price>
+        </Product>
+    </Products>
+    <TotalAmount>11.98</TotalAmount>
+</Order>

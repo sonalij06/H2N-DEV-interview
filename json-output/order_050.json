@@ -1,0 +1,19 @@
+[
+    {
+        "OrderID": "1010",
+        "OrderDate": "2024-10-15T19:00:00",
+        "TotalAmount": "29.99",
+        "Customer": {
+            "CustomerID": "10",
+            "Name": "David Green"
+        },
+        "Products": [
+            {
+                "ProductID": "110",
+                "Name": "Laptop Stand",
+                "Quantity": "1",
+                "Price": "39.99"
+            }
+        ]
+    }
+]

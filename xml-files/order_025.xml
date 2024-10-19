@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Orders>
+<Order>
+    <OrderID>241</OrderID>
+<Customer>
+    <CustomerID>241</CustomerID>
+    <Name>Customer 241</Name>
+</Customer
+>
+    <OrderDate>2024-10-15T10:01:00</OrderDate>
+<Products>
+    <Product>
+        <ProductID>341</ProductID>
+        <Name>Product 241</Name>
+        <Quantity>1</Quantity>
+        <Price>45.43</Price>
+    </Product>
+</Products>
+    <TotalAmount>468.17</TotalAmount>
+</Order>
+<Order>
+    <OrderID>242</OrderID>
+<Customer>
+    <CustomerID>242</CustomerID>
+    <Name>Customer 242</Name>
+</Customer
+>
+    <OrderDate>2024-10-15T10:02:00</OrderDate>
+<Products>
+    <Product>
+        <ProductID>342</ProductID>
+        <Name>Product 242</Name>
+        <Quantity>3</Quantity>
+        <Price>46.83</Price>
+    </Product>
+</Products>
+    <TotalAmount>98.87</TotalAmount>
+</Order>
+</Orders>

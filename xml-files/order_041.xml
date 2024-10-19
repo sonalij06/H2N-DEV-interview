@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order>
+    <OrderID>1001</OrderID>
+    <Customer>
+        <CustomerID>1</CustomerID>
+        <Name>John Doe</Name>
+    </Customer>
+    <OrderDate>2024-10-15T10:30:00</OrderDate>
+    <Products>
+        <Product>
+            <ProductID>101</ProductID>
+            <Name>Wireless Mouse</Name>
+            <Quantity>2</Quantity>
+            <Price>25.99</Price>
+        </Product>
+    </Products>
+    <TotalAmount>51.98</TotalAmount>
+</Order>

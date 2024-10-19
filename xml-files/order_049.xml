@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order>
+    <OrderID>1009</OrderID>
+    <Customer>
+        <CustomerID>9</CustomerID>
+        <Name>Sarah White</Name>
+    </Customer
+    <OrderDate>2024-10-15T18:00:00</OrderDate>
+    <Products>
+        <Product>
+            <ProductID>109</ProductID>
+            <Name>Flash Drive</Name>
+            <Quantity>2</Quantity>
+            <Price>10.00</Price>
+        </Product>
+    </Products>
+    <TotalAmount>20.00</TotalAmount>
+</Order>

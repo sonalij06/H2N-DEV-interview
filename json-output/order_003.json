@@ -1,0 +1,12 @@
+[
+    {
+        "OrderID": "21",
+        "OrderDate": "2024-10-15T10:21:00",
+        "TotalAmount": "497.82",
+        "Customer": {
+            "CustomerID": "21",
+            "Name": "Customer 21"
+        },
+        "Products": []
+    }
+]

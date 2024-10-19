@@ -1,0 +1,19 @@
+[
+    {
+        "OrderID": "1005",
+        "OrderDate": "2024-10-15T14:00:00",
+        "TotalAmount": "99.99",
+        "Customer": {
+            "CustomerID": "5",
+            "Name": "Chris Evans"
+        },
+        "Products": [
+            {
+                "ProductID": "105",
+                "Name": "Headphones",
+                "Quantity": "1",
+                "Price": "99.99"
+            }
+        ]
+    }
+]

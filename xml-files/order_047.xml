@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order>
+    <OrderID>1007</OrderID>
+    <Customer>
+        <CustomerID>7</CustomerID>
+        <Name>Michael Brown</Name>
+    </Customer>
+    <OrderDate>2024-10-15T16:00:00</OrderDate>
+    <Products>
+        <Product>
+            <ProductID>107</ProductID>
+            <Name>Webcam</Name>
+            <Quantity>1</Quantity>
+            <Price>59.99</Price>
+        </Product>
+    </Products>
+    <TotalAmount>59.99</TotalAmount>
+</Order>

@@ -1,0 +1,93 @@
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_001.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_002.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_003.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_004.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_005.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_006.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_007.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_008.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_009.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_010.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_011.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_012.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_013.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_014.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_015.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_016.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_017.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_018.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_019.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_020.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_021.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_022.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_023.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_024.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_025.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_026.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_027.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_028.xml successfully.
+INFO:root:2024-10-19 05:15:40: Processed ./xml-files/order_029.xml successfully.
+INFO:root:2024-10-19 05:15:41: Processed ./xml-files/order_030.xml successfully.
+INFO:root:2024-10-19 05:15:41: Processed ./xml-files/order_041.xml successfully.
+INFO:root:2024-10-19 05:15:41: Processed ./xml-files/order_042.xml successfully.
+INFO:root:2024-10-19 05:15:41: Processed ./xml-files/order_043.xml successfully.
+INFO:root:2024-10-19 05:15:41: Processed ./xml-files/order_044.xml successfully.
+INFO:root:2024-10-19 05:15:41: Processed ./xml-files/order_045.xml successfully.
+INFO:root:2024-10-19 05:15:41: Processed ./xml-files/order_046.xml successfully.
+INFO:root:2024-10-19 05:15:41: Processed ./xml-files/order_047.xml successfully.
+ERROR:root:2024-10-19 05:15:41: Missing fields in order 1008: <CustomerID>, <Customer Name>
+INFO:root:2024-10-19 05:15:41: Processed ./xml-files/order_048.xml successfully.
+ERROR:root:2024-10-19 05:15:41: Parsing error in ./xml-files/order_049.xml - not well-formed (invalid token): line 8, column 4. Retrying...
+ERROR:root:2024-10-19 05:15:43: Parsing error in ./xml-files/order_049.xml - not well-formed (invalid token): line 8, column 4. Retrying...
+ERROR:root:2024-10-19 05:15:45: Parsing error in ./xml-files/order_049.xml - not well-formed (invalid token): line 8, column 4. Retrying...
+ERROR:root:2024-10-19 05:15:47: Max attempts reached for ./xml-files/order_049.xml. Skipping file.
+INFO:root:2024-10-19 05:15:47: Processed ./xml-files/order_050.xml successfully.
+INFO:root:2024-10-19 05:46:59: Processed test.xml successfully.
+INFO:root:2024-10-19 05:47:24: Processed test.xml successfully.
+INFO:root:2024-10-19 05:47:56: Processed test.xml successfully.
+INFO:root:2024-10-19 05:51:09: Processed test.xml successfully.
+INFO:root:2024-10-19 05:51:21: Processed test.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_001.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_002.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_003.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_004.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_005.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_006.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_007.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_008.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_009.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_010.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_011.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_012.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_013.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_014.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_015.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_016.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_017.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_018.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_019.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_020.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_021.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_022.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_023.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_024.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_025.xml successfully.
+INFO:root:2024-10-19 05:53:42: Processed ./xml-files/order_026.xml successfully.
+INFO:root:2024-10-19 05:53:43: Processed ./xml-files/order_027.xml successfully.
+INFO:root:2024-10-19 05:53:43: Processed ./xml-files/order_028.xml successfully.
+INFO:root:2024-10-19 05:53:43: Processed ./xml-files/order_029.xml successfully.
+INFO:root:2024-10-19 05:53:43: Processed ./xml-files/order_030.xml successfully.
+INFO:root:2024-10-19 05:53:43: Processed ./xml-files/order_041.xml successfully.
+INFO:root:2024-10-19 05:53:43: Processed ./xml-files/order_042.xml successfully.
+INFO:root:2024-10-19 05:53:43: Processed ./xml-files/order_043.xml successfully.
+INFO:root:2024-10-19 05:53:43: Processed ./xml-files/order_044.xml successfully.
+INFO:root:2024-10-19 05:53:43: Processed ./xml-files/order_045.xml successfully.
+INFO:root:2024-10-19 05:53:43: Processed ./xml-files/order_046.xml successfully.
+INFO:root:2024-10-19 05:53:43: Processed ./xml-files/order_047.xml successfully.
+ERROR:root:2024-10-19 05:53:43: Missing fields in order 1008: <CustomerID>, <Customer Name>
+INFO:root:2024-10-19 05:53:43: Processed ./xml-files/order_048.xml successfully.
+ERROR:root:2024-10-19 05:53:43: Parsing error in ./xml-files/order_049.xml - not well-formed (invalid token): line 8, column 4. Retrying...
+ERROR:root:2024-10-19 05:53:45: Parsing error in ./xml-files/order_049.xml - not well-formed (invalid token): line 8, column 4. Retrying...
+ERROR:root:2024-10-19 05:53:47: Parsing error in ./xml-files/order_049.xml - not well-formed (invalid token): line 8, column 4. Retrying...
+ERROR:root:2024-10-19 05:53:49: Max attempts reached for ./xml-files/order_049.xml. Skipping file.
+INFO:root:2024-10-19 05:53:49: Processed ./xml-files/order_050.xml successfully.

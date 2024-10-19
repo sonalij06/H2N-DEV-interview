@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Orders>
+<Order>
+    <OrderID>101</OrderID>
+<Customer>
+    <CustomerID>101</CustomerID>
+    <Name>Customer 101</Name>
+</Customer>
+    <OrderDate>2024-10-15T10:41:00</OrderDate>
+<Products></Products>
+    <TotalAmount>129.77</TotalAmount>
+</Order>
+</Orders>

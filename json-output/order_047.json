@@ -1,0 +1,19 @@
+[
+    {
+        "OrderID": "1007",
+        "OrderDate": "2024-10-15T16:00:00",
+        "TotalAmount": "59.99",
+        "Customer": {
+            "CustomerID": "7",
+            "Name": "Michael Brown"
+        },
+        "Products": [
+            {
+                "ProductID": "107",
+                "Name": "Webcam",
+                "Quantity": "1",
+                "Price": "59.99"
+            }
+        ]
+    }
+]

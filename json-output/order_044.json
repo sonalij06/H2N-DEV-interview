@@ -1,0 +1,19 @@
+[
+    {
+        "OrderID": "1004",
+        "OrderDate": "2024-10-15T13:30:00",
+        "TotalAmount": "45.00",
+        "Customer": {
+            "CustomerID": "4",
+            "Name": "Emily Johnson"
+        },
+        "Products": [
+            {
+                "ProductID": "104",
+                "Name": "USB Hub",
+                "Quantity": "3",
+                "Price": "15.00"
+            }
+        ]
+    }
+]

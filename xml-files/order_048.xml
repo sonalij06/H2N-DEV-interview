@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order>
+    <OrderID>1008</OrderID>
+    <OrderDate>2024-10-15T17:00:00</OrderDate>
+    <Products>
+        <Product>
+            <ProductID>108</ProductID>
+            <Name>External HDD</Name>
+            <Quantity>1</Quantity>
+            <Price>79.99</Price>
+        </Product>
+    </Products>
+    <TotalAmount>79.99</TotalAmount>
+</Order>
